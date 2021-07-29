@@ -1,0 +1,49 @@
+body {
+    color: dimgrey;
+    font-family: "M PLUS Rounded 1c";
+}
+
+#title {
+    background-color: azure;
+    padding-left: 10%;
+    font-weight: 600;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: azure;
+    color: dimgrey;
+}
+
+@media screen and (min-width: 640px) {
+    #title {
+        height: 128px;
+        font-size: 44px;
+    }
+
+    #main {
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+
+    #prologue {
+        padding-top: 64px;
+        padding-bottom: 64px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    #title {
+        height: 64px;
+        font-size: 20px;
+    }
+
+    #main {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    #prologue {
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+}
