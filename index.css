@@ -9,6 +9,10 @@ body {
     font-weight: 600;
 }
 
+.accordion-button {
+    color: dimgrey;
+}
+
 .accordion-button:not(.collapsed) {
     background-color: azure;
     color: dimgrey;
