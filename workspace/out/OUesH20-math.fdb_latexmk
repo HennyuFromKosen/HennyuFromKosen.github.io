@@ -1,11 +1,11 @@
 # Fdb version 3
-["dvipdf"] 1627721606 "out/OuesH19-math.dvi" "out/OuesH19-math.pdf" "out/OuesH19-math" 1627721607
-  "out/OuesH19-math.dvi" 1627721606 15460 97e482ee624a5c493ac551e91e46565d "latex"
+["dvipdf"] 1627728841 "out/OUesH20-math.dvi" "out/OUesH20-math.pdf" "out/OUesH20-math" 1627728842
+  "out/OUesH20-math.dvi" 1627728841 10812 5349f1ea43cd0e904e265625690ba361 "latex"
   (generated)
-  "out/OuesH19-math.pdf"
-["latex"] 1627721606 "/Users/len/Documents/HennyuFromKosen.github.io/workspace/OuesH19-math.tex" "out/OuesH19-math.dvi" "OuesH19-math" 1627721607
-  "/Users/len/Documents/HennyuFromKosen.github.io/workspace/OuesH19-math.tex" 1627721605 12908 9238f17fc054c93ef80bb3f0279494ce ""
-  "/dev/null" 1627721598 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "out/OUesH20-math.pdf"
+["latex"] 1627728841 "/Users/len/Documents/HennyuFromKosen.github.io/workspace/OUesH20-math.tex" "out/OUesH20-math.dvi" "OUesH20-math" 1627728842
+  "/Users/len/Documents/HennyuFromKosen.github.io/workspace/OUesH20-math.tex" 1627728841 9817 21b29a868014439d012899f8e6dc0f69 ""
+  "/dev/null" 1627728838 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
@@ -47,7 +47,6 @@
   "/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty" 1523134290 4116 32e6abd27229755a83a8b7f18e583890 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty" 1523134290 2432 8ff93b1137020e8f21930562a874ae66 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.dfu" 1544567569 4973 923be56c54607ca99f7cc085a8c7e52b ""
-  "/usr/local/texlive/2019/texmf-dist/tex/latex/cases/cases.sty" 1266794354 7729 8bcdd4087d7eaedbd85077d2c722955e ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/comment/comment.sty" 1472166125 10197 204f75d5d8d88aa345a8c402e879e63b ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1465944070 1224 978390e9c2234eab29404bc21b268d1e ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/dvipdfmx.def" 1498427493 10299 c742d2190e924996d2f4e34b541cd5e3 ""
@@ -64,10 +63,14 @@
   "/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.sty" 1551393442 80450 ccf6250c881393368e27f23b483782ab ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty" 1551393442 204271 b2a47aa3eb69a0d1d582edd851ff8f19 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty" 1551393442 77022 9205b75844150972cc4077e78ec26b25 ""
+  "/usr/local/texlive/2019/texmf-dist/tex/latex/mathtools/empheq.sty" 1496786006 45199 cb1bb737131093bff95d51f53023388c ""
+  "/usr/local/texlive/2019/texmf-dist/tex/latex/mathtools/mathtools.sty" 1515449928 53430 0411f0481da6078e76fd7de46531d2e0 ""
+  "/usr/local/texlive/2019/texmf-dist/tex/latex/mathtools/mhsetup.sty" 1496786006 5317 cf75154a8a7e6436f05a5be497f0b05e ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg" 1520891397 4745 4153fed01bfa3d89ec4de9502b341d60 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx.sty" 1526677777 276785 6e39f76222b0ccef1eae562690ea396e ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty" 1546812253 12527 31ab547f6520657998ecf91709f950ac ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/tools/bm.sty" 1523050425 12626 7d9d99d0bbe65f44cc0bb90f67262000 ""
+  "/usr/local/texlive/2019/texmf-dist/tex/latex/tools/calc.sty" 1523050425 10212 357072c1d20578a30d6387d8a22e72ab ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict" 1512078926 3435 0a4d096dde3f8fe682c2aedd33b8137d ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator.sty" 1515274380 8690 269ca424c32d015df5d558ef9752619d ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
@@ -76,9 +79,9 @@
   "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1557092114 35484 cb1661360667bf4db662a8895053b554 ""
   "/usr/local/texlive/2019/texmf-var/web2c/eptex/platex.fmt" 1579363523 4524395 17d0da8b3348086cc3bbed0a510ba2e7 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "OuesH19-math.tex" 1627721605 12908 9238f17fc054c93ef80bb3f0279494ce ""
-  "out/OuesH19-math.aux" 1627721606 36 cb2e9fa407ea58fd83e0c05499d03c45 "latex"
+  "OUesH20-math.tex" 1627728841 9817 21b29a868014439d012899f8e6dc0f69 ""
+  "out/OUesH20-math.aux" 1627728841 8 a94a2480d3289e625eea47cd1b285758 "latex"
   (generated)
-  "out/OuesH19-math.dvi"
-  "out/OuesH19-math.aux"
-  "out/OuesH19-math.log"
+  "out/OUesH20-math.dvi"
+  "out/OUesH20-math.log"
+  "out/OUesH20-math.aux"
