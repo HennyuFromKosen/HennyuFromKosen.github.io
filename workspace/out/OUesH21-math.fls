@@ -4,8 +4,8 @@ INPUT /usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2019/texmf.cnf
 INPUT /usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2019/texmf-var/web2c/eptex/platex.fmt
-INPUT /Users/len/Documents/HennyuFromKosen.github.io/workspace/OUesH20-math.tex
-OUTPUT out/OUesH20-math.log
+INPUT /Users/len/Documents/HennyuFromKosen.github.io/workspace/OUesH21-math.tex
+OUTPUT out/OUesH21-math.log
 INPUT /usr/local/texlive/2019/texmf-dist/tex/platex/jsclasses/jsarticle.cls
 INPUT /usr/local/texlive/2019/texmf-dist/tex/platex/jsclasses/jsarticle.cls
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map
@@ -99,9 +99,9 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
-INPUT out/OUesH20-math.aux
-INPUT out/OUesH20-math.aux
-OUTPUT out/OUesH20-math.aux
+INPUT out/OUesH21-math.aux
+INPUT out/OUesH21-math.aux
+OUTPUT out/OUesH21-math.aux
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.dfu
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.dfu
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
@@ -152,6 +152,5 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
-OUTPUT out/OUesH20-math.dvi
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
-INPUT out/OUesH20-math.aux
+OUTPUT out/OUesH21-math.dvi
+INPUT out/OUesH21-math.aux
