@@ -3,8 +3,8 @@ entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/len/Documents/HennyuFromKosen.github.io/workspace/OUesH21-math.tex
-(/Users/len/Documents/HennyuFromKosen.github.io/workspace/OUesH21-math.tex
+**/Users/len/Documents/HennyuFromKosen.github.io/workspace/OUesH20-math.tex
+(/Users/len/Documents/HennyuFromKosen.github.io/workspace/OUesH20-math.tex
 pLaTeX2e <2019-04-06> (based on LaTeX2e <2018-12-01>)
 (/usr/local/texlive/2019/texmf-dist/tex/platex/jsclasses/jsarticle.cls
 Document Class: jsarticle 2019/04/06 jsclasses (okumura, texjporg)
@@ -448,8 +448,8 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 File: lstlang1.sty 2019/02/27 1.8b listings language file
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
-) (out/OUesH21-math.aux)
-\openout1 = `OUesH21-math.aux'.
+) (out/OUesH20-math.aux)
+\openout1 = `OUesH20-math.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
@@ -585,18 +585,16 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 [1
 
 ] [2]
-Overfull \hbox (2.15892pt too wide) in alignment at lines 279--285
- [][][] []
- []
-
-[3] (out/OUesH21-math.aux) ) 
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 255.
+[3] (out/OUesH20-math.aux) ) 
 Here is how much of TeX's memory you used:
  15901 strings out of 493223
  308059 string characters out of 6144415
- 543599 words of memory out of 5000000
+ 539599 words of memory out of 5000000
  19810 multiletter control sequences out of 15000+600000
- 545729 words of font info for 86 fonts, out of 8000000 for 9000
+ 545918 words of font info for 87 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 33i,8n,49p,320b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 33i,11n,49p,288b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on out/OUesH21-math.dvi (3 pages, 12080 bytes).
+Output written on out/OUesH20-math.dvi (3 pages, 10904 bytes).
